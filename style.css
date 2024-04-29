@@ -1,0 +1,19 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.element {
+    margin: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+#combine {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
